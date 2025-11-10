@@ -71,5 +71,6 @@ SeaSnap is a comprehensive data pipeline and visualization platform for Conducti
 
 1. **Place your raw CTD files** in the designated input directory.
 2. **Run the extraction and structuring scripts** to process the data.
-3.
-
+3. **Perform automated quality control (QC) on the processed data** following Argo float standards to ensure accuracy and reliability.
+4. **Visualize the cleaned and structured datasets** through interactive geospatial maps and charts using the web dashboard for clear insights into oceanographic measurements.
+
